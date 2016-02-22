@@ -17,3 +17,7 @@
     http://121.43.226.142/stock/p.php?s=sz300212,error,sz300059
     
     [{name: "易华录", price: 33.05, percent: 3.18}, null, {name: "东方财富", price: 42.23, percent: 0.96}]
+    
+支持jsonp调用，增加jsonp参数即可
+
+    http://121.43.226.142/stock/p.php?s=sz300212&jsonp=callback
