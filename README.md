@@ -21,3 +21,5 @@
 支持jsonp调用，增加jsonp参数即可
 
     http://121.43.226.142/stock/p.php?s=sz300212&jsonp=callback
+    
+    callback([{name: "易华录", price: 33.23, percent: 3.75}]);
