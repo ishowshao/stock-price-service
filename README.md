@@ -14,4 +14,6 @@
     
 如果股票ID错误，对应位置的数据为null
 
+    http://121.43.226.142/stock/p.php?s=sz300212,error,sz300059
+    
     [{name: "易华录", price: 33.05, percent: 3.18}, null, {name: "东方财富", price: 42.23, percent: 0.96}]
